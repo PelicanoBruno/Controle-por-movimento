@@ -1,0 +1,17 @@
+.note{
+    font-size:15px;
+    color:rgb(190, 0, 0);
+}
+.Titulo{
+    font-size:40;
+    color:rgb(0, 214, 0);
+    width:100%;
+}
+.copyright{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:rgb(73, 73, 73);
+    font-size:20px
+}
